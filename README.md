@@ -25,4 +25,4 @@ Kullanıcılar, belge görsellerini yükleyip Streamlit tabanlı web arayüzü �
 
   . Belge doğrulama ve içerik anlama
 
-ERP / Muhasebe sistemlerine AI entegrasyonu
+  . ERP / Muhasebe sistemlerine AI entegrasyonu
