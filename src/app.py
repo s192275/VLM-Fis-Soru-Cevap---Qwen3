@@ -4,7 +4,7 @@ from transformers import Qwen3VLForConditionalGeneration, AutoProcessor
 import torch
 
 st.set_page_config(page_title="Qwen3-VL Doküman Analizi", layout="wide")
-st.title("📄 Yapay Zeka ile Doküman Analizi (Qwen3-VL)")
+st.title("Yapay Zeka ile Doküman Analizi (Qwen3-VL)")
 st.markdown("Bir fatura resmi yükleyin ve doküman hakkındaki sorularınızı sorun.")
 
 @st.cache_resource
