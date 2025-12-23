@@ -1,5 +1,5 @@
 Bu proje, Qwen3 multimodal modellerini kullanarak fatura, fiş ve vergi belgeleri üzerinden doğal dilde soru–cevap yapılmasını sağlar.
-Kullanıcılar, belge görsellerini yükleyip Streamlit tabanlı web arayüzü üzerinden belge içeriği hakkında sorular sorabilir.
+Kullanıcılar, belge görsellerini yükleyip Streamlit tabanlı web arayüzü üzerinden belge içeriği hakkında sorular sorabilir. Proje Dockerfile üzerinden ya da environment oluşturularak çalıştırılabilir. Environment oluşturulması durumunda bağımlılıklar pip install -r requirements.txt komutu ile indirilmelidir.
 
 **Özellikler**
 
